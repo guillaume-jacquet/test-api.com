@@ -1,0 +1,16 @@
+{
+  "countries": [
+    {
+      "country": "FR",
+      "language": "fr"
+    },
+    {
+      "country": "BE",
+      "language": "fr"
+    },
+    {
+      "country": "BE",
+      "language": "nl"
+    }
+  ]
+}
