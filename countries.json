@@ -11,6 +11,18 @@
     {
       "country": "BE",
       "language": "nl"
+    },
+    {
+      "country": "AT",
+      "language": "de"
+    },
+    {
+      "country": "ES",
+      "language": "es"
+    },
+    {
+      "country": "GB",
+      "language": "en"
     }
   ]
 }
