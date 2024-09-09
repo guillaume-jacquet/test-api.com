@@ -1,6 +1,7 @@
 {
   "countries": [
     {
+      "country": "France",
       "code": "FR",
       "language": "fr",
       "group": 1,
@@ -10,6 +11,7 @@
       "prodMerchSku": true
     },
     {
+      "country": "Belgium",
       "code": "BE",
       "language": "fr",
       "group": 1,
@@ -19,6 +21,7 @@
       "prodMerchSku": true
     },
     {
+      "country": "Belgium",
       "code": "BE",
       "language": "nl",
       "group": 1,
@@ -28,6 +31,7 @@
       "prodMerchSku": true
     },
     {
+      "country": "Austria",
       "code": "AT",
       "language": "de",
       "group": 1,
@@ -37,6 +41,7 @@
       "prodMerchSku": true
     },
     {
+      "country": "Espagne",
       "code": "ES",
       "language": "es",
       "group": 1,
@@ -46,6 +51,7 @@
       "prodMerchSku": true
     },
     {
+      "country": "United Kingdom",
       "code": "GB",
       "language": "en",
       "group": 1,
