@@ -1,28 +1,58 @@
 {
   "countries": [
     {
-      "country": "FR",
-      "language": "fr"
+      "code": "FR",
+      "language": "fr",
+      "group": 1,
+      "stagingPublicSku": true,
+      "stagingMerchSku": true
+      "prodPublicSku": true,
+      "prodMerchSku": true
     },
     {
-      "country": "BE",
-      "language": "fr"
+      "code": "BE",
+      "language": "fr",
+      "group": 1,
+      "stagingPublicSku": true,
+      "stagingMerchSku": true
+      "prodPublicSku": true,
+      "prodMerchSku": true
     },
     {
-      "country": "BE",
-      "language": "nl"
+      "code": "BE",
+      "language": "nl",
+      "group": 1,
+      "stagingPublicSku": true,
+      "stagingMerchSku": true
+      "prodPublicSku": true,
+      "prodMerchSku": true
     },
     {
-      "country": "AT",
-      "language": "de"
+      "code": "AT",
+      "language": "de",
+      "group": 1,
+      "stagingPublicSku": true,
+      "stagingMerchSku": true
+      "prodPublicSku": true,
+      "prodMerchSku": true
     },
     {
-      "country": "ES",
-      "language": "es"
+      "code": "ES",
+      "language": "es",
+      "group": 1,
+      "stagingPublicSku": true,
+      "stagingMerchSku": true
+      "prodPublicSku": true,
+      "prodMerchSku": true
     },
     {
-      "country": "GB",
-      "language": "en"
+      "code": "GB",
+      "language": "en",
+      "group": 1,
+      "stagingPublicSku": true,
+      "stagingMerchSku": true
+      "prodPublicSku": true,
+      "prodMerchSku": true
     }
   ]
 }
