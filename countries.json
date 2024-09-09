@@ -6,7 +6,7 @@
       "language": "fr",
       "group": 1,
       "stagingPublicSku": true,
-      "stagingMerchSku": true
+      "stagingMerchSku": true,
       "prodPublicSku": true,
       "prodMerchSku": true
     },
@@ -16,7 +16,7 @@
       "language": "fr",
       "group": 1,
       "stagingPublicSku": true,
-      "stagingMerchSku": true
+      "stagingMerchSku": true,
       "prodPublicSku": true,
       "prodMerchSku": true
     },
@@ -26,7 +26,7 @@
       "language": "nl",
       "group": 1,
       "stagingPublicSku": true,
-      "stagingMerchSku": true
+      "stagingMerchSku": true,
       "prodPublicSku": true,
       "prodMerchSku": true
     },
@@ -36,7 +36,7 @@
       "language": "de",
       "group": 1,
       "stagingPublicSku": true,
-      "stagingMerchSku": true
+      "stagingMerchSku": true,
       "prodPublicSku": true,
       "prodMerchSku": true
     },
@@ -46,7 +46,7 @@
       "language": "es",
       "group": 1,
       "stagingPublicSku": true,
-      "stagingMerchSku": true
+      "stagingMerchSku": true,
       "prodPublicSku": true,
       "prodMerchSku": true
     },
@@ -56,7 +56,7 @@
       "language": "en",
       "group": 1,
       "stagingPublicSku": true,
-      "stagingMerchSku": true
+      "stagingMerchSku": true,
       "prodPublicSku": true,
       "prodMerchSku": true
     }
