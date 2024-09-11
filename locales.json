@@ -1,0 +1,2419 @@
+{
+  "locales": [
+    {
+      "country": "Austria",
+      "code": "AT",
+      "language": "de",
+      "group": 1,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "language": "en",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 0
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 0
+      }
+    },
+    {
+      "country": "Belgium",
+      "code": "BE",
+      "language": "nl",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Belgium",
+      "code": "BE",
+      "language": "fr",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Bulgaria",
+      "code": "BG",
+      "language": "bg",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "language": "fr",
+      "group": 3,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "language": "en",
+      "group": 3,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Republic Democratic of Congo",
+      "code": "CD",
+      "language": "fr",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Switzerland",
+      "code": "CH",
+      "language": "de",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Switzerland",
+      "code": "CH",
+      "language": "fr",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Switzerland",
+      "code": "CH",
+      "language": "it",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Ivory Cost",
+      "code": "CI",
+      "language": "fr",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Chile",
+      "code": "CL",
+      "language": "es",
+      "group": 3,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Colombia",
+      "code": "CO",
+      "language": "es",
+      "group": 3,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Czech Republic",
+      "code": "CZ",
+      "language": "cs",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "language": "de",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Algeria",
+      "code": "DZ",
+      "language": "fr",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Estonia",
+      "code": "EE",
+      "language": "et",
+      "group": 2,
+      "staging": {
+        "publicSku": 0,
+        "merchSku": 0,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 0
+      },
+      "apiStreamers": {
+        "stores": 0,
+        "spareParts": 0
+      },
+      "queryStreamer": {
+        "biSales": 0
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Egypt",
+      "code": "EG",
+      "language": "ar",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "language": "es",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "language": "ca",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "language": "fr",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "language": "en",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Ghana",
+      "code": "GH",
+      "language": "en",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Greece",
+      "code": "GR",
+      "language": "el",
+      "group": 1,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Hong Kong",
+      "code": "HK",
+      "language": "en",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Hong Kong",
+      "code": "HK",
+      "language": "zh",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Croatia",
+      "code": "HR",
+      "language": "hr",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Hungary",
+      "code": "HU",
+      "language": "hu",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Indonesia",
+      "code": "ID",
+      "language": "id",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Ireland",
+      "code": "IE",
+      "language": "en",
+      "group": 1,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Israel",
+      "code": "IL",
+      "language": "he",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "language": "en",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "language": "it",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Japan",
+      "code": "JP",
+      "language": "ja",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Kenya",
+      "code": "KE",
+      "language": "en",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Cambodgia",
+      "code": "KH",
+      "language": "km",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Korea",
+      "code": "KR",
+      "language": "ko",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Kazakhstan",
+      "code": "KZ",
+      "language": "ru",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Kazakhstan",
+      "code": "KZ",
+      "language": "kk",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Lithuania",
+      "code": "LT",
+      "language": "lt",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Latvia",
+      "code": "LV",
+      "language": "lv",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Latvia",
+      "code": "LV",
+      "language": "ru",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Morocco",
+      "code": "MA",
+      "language": "fr",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Malta",
+      "code": "MT",
+      "language": "en",
+      "group": 1,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Mexico",
+      "code": "MX",
+      "language": "es",
+      "group": 3,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Malaysia",
+      "code": "MY",
+      "language": "en",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Netherlands",
+      "code": "NL",
+      "language": "nl",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Philippines",
+      "code": "PH",
+      "language": "en",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Poland",
+      "code": "PL",
+      "language": "pl",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Portugal",
+      "code": "PT",
+      "language": "pt",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Romania",
+      "code": "RO",
+      "language": "ro",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 1,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
+      "language": "sr",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "language": "sv",
+      "group": 1,
+      "staging": {
+        "publicSku": 0,
+        "merchSku": 0,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 0,
+        "merchSku": 0,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 0,
+        "oneFF": 0,
+        "masterprice": 0,
+        "giftcard": 0,
+        "openvoice": 0
+      },
+      "apiStreamers": {
+        "stores": 0,
+        "spareParts": 0
+      },
+      "queryStreamer": {
+        "biSales": 0
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 0
+      }
+    },
+    {
+      "country": "Singapore",
+      "code": "SG",
+      "language": "en",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Slovenia",
+      "code": "SI",
+      "language": "sl",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Slovakia",
+      "code": "SK",
+      "language": "sk",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Sénégal",
+      "code": "SN",
+      "language": "fr",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Thailand",
+      "code": "TH",
+      "language": "en",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Thailand",
+      "code": "TH",
+      "language": "th",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Tunisia",
+      "code": "TN",
+      "language": "fr",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Turkey",
+      "code": "TR",
+      "language": "tr",
+      "group": 0,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 1
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Taiwan",
+      "code": "TW",
+      "language": "zh",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Ukraine",
+      "code": "UA",
+      "language": "uk",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Ukraine",
+      "code": "UA",
+      "language": "ru",
+      "group": 2,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Uruguay",
+      "code": "UY",
+      "language": "es",
+      "group": 3,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Vietnam",
+      "code": "VN",
+      "language": "vi",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "Vietnam",
+      "code": "VN",
+      "language": "en",
+      "group": 5,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 1,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    },
+    {
+      "country": "South Africa",
+      "code": "ZA",
+      "language": "en",
+      "group": 4,
+      "staging": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 0,
+        "eligibilityFromAtg": 0
+      },
+      "prod": {
+        "publicSku": 1,
+        "merchSku": 1,
+        "zonedSku": 1,
+        "eligibilityFromAtg": 0
+      },
+      "replicators": {
+        "oneCatalog": 1,
+        "oneFF": 0,
+        "masterprice": 1,
+        "giftcard": 0,
+        "openvoice": 1
+      },
+      "apiStreamers": {
+        "stores": 1,
+        "spareParts": 1
+      },
+      "queryStreamer": {
+        "biSales": 1
+      },
+      "s3Streamer": {
+        "crosssellSimilars": 1
+      }
+    }
+  ]
+}
